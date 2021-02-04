@@ -1,0 +1,33 @@
+.header-left img {
+    height: 47px;
+}
+html{
+    scroll-behavior:smooth;
+   
+}
+.header-right ul li a {
+    line-height: 47px;
+}
+
+.hero-section{
+    background-image: url(./20_Mark-Wahlberg.jpg);
+    padding: 220px 0 !important;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    max-width: 100%;
+}
+.blog-section img {
+    width: 285px;
+}
+
+.footer-left p {
+    margin: 0;
+}
+
+.right{
+    text-align: right;
+    margin: 0;
+}
